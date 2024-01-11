@@ -1,0 +1,15 @@
+f:\Aspire\c#\AccessSpecifiers_private\bin\Debug\net6.0\AccessSpecifiers_private.exe
+f:\Aspire\c#\AccessSpecifiers_private\bin\Debug\net6.0\AccessSpecifiers_private.deps.json
+f:\Aspire\c#\AccessSpecifiers_private\bin\Debug\net6.0\AccessSpecifiers_private.runtimeconfig.json
+f:\Aspire\c#\AccessSpecifiers_private\bin\Debug\net6.0\AccessSpecifiers_private.dll
+f:\Aspire\c#\AccessSpecifiers_private\bin\Debug\net6.0\AccessSpecifiers_private.pdb
+f:\Aspire\c#\AccessSpecifiers_private\obj\Debug\net6.0\AccessSpecifiers_private.csproj.AssemblyReference.cache
+f:\Aspire\c#\AccessSpecifiers_private\obj\Debug\net6.0\AccessSpecifiers_private.GeneratedMSBuildEditorConfig.editorconfig
+f:\Aspire\c#\AccessSpecifiers_private\obj\Debug\net6.0\AccessSpecifiers_private.AssemblyInfoInputs.cache
+f:\Aspire\c#\AccessSpecifiers_private\obj\Debug\net6.0\AccessSpecifiers_private.AssemblyInfo.cs
+f:\Aspire\c#\AccessSpecifiers_private\obj\Debug\net6.0\AccessSpecifiers_private.csproj.CoreCompileInputs.cache
+f:\Aspire\c#\AccessSpecifiers_private\obj\Debug\net6.0\AccessSpecifiers_private.dll
+f:\Aspire\c#\AccessSpecifiers_private\obj\Debug\net6.0\refint\AccessSpecifiers_private.dll
+f:\Aspire\c#\AccessSpecifiers_private\obj\Debug\net6.0\AccessSpecifiers_private.pdb
+f:\Aspire\c#\AccessSpecifiers_private\obj\Debug\net6.0\AccessSpecifiers_private.genruntimeconfig.cache
+f:\Aspire\c#\AccessSpecifiers_private\obj\Debug\net6.0\ref\AccessSpecifiers_private.dll

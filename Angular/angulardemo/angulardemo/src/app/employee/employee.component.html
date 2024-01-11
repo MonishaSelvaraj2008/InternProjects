@@ -1,0 +1,51 @@
+
+<table>
+    <thead>
+        <th>EmployeeId</th>
+        <th>EmployeeName</th>
+        <th *ngIf="status">EmployeeAge</th>
+    </thead>
+    <tbody>
+        <tr *ngFor="let emp of employee">
+         <td>{{emp.empid}}</td>
+         <td>{{emp.empname|uppercase}}</td>
+         <td *ngIf="status">{{emp.age}}</td>
+        </tr>
+
+    </tbody>
+</table>
+
+<button (click)="toggleCase()">{{status?'Hide':'Show'}} Age</button>
+<br><br>
+
+<!--PIPES-->
+<h3>PIPES</h3>
+{{34567.87654|number:'2.0-4'}}
+<br><br>
+<!--number is a pipe formats that.
+2 digits minimum before the decimal. 4 after the decimal-->
+
+{{34567.87654|currency:'INR':false}}
+<br><br>
+{{todayDate|date : 'dd:MM:YYYY HH:mm:ss'}}
+<br><br>
+
+{{employee|json}}
+<br><br>
+
+{{"Welcome to the Family"|slice:3:-7}}
+<br><br>
+
+<b>{{'Gender pipe:'}}</b>
+<br>
+{{'Raj'|gender}} or {{'Raj'|gender:'F'}} == Ms. Raj
+<br>
+{{'Raj'|gender:'M'}} == Mr.Raj
+<br><br><br>
+
+<b>{{'Size Pipe:'}}</b><br>
+{{210 | size}} == Please enter the proper number<br>
+{{10 | size : 'Small'}} == Small<br>
+{{29 | size}}<br>
+{{40 | size}}<br>
+{{99 | size}}<br>

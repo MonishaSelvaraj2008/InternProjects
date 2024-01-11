@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AllStateManagement/1.0.0": {
+        "runtime": {
+          "AllStateManagement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AllStateManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

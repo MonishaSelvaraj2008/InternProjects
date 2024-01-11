@@ -1,0 +1,15 @@
+F:\Aspire\c#\Reflection\obj\Debug\net6.0\Reflection.csproj.AssemblyReference.cache
+F:\Aspire\c#\Reflection\obj\Debug\net6.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+F:\Aspire\c#\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfoInputs.cache
+F:\Aspire\c#\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfo.cs
+F:\Aspire\c#\Reflection\obj\Debug\net6.0\Reflection.csproj.CoreCompileInputs.cache
+F:\Aspire\c#\Reflection\bin\Debug\net6.0\Reflection.exe
+F:\Aspire\c#\Reflection\bin\Debug\net6.0\Reflection.deps.json
+F:\Aspire\c#\Reflection\bin\Debug\net6.0\Reflection.runtimeconfig.json
+F:\Aspire\c#\Reflection\bin\Debug\net6.0\Reflection.dll
+F:\Aspire\c#\Reflection\bin\Debug\net6.0\Reflection.pdb
+F:\Aspire\c#\Reflection\obj\Debug\net6.0\Reflection.dll
+F:\Aspire\c#\Reflection\obj\Debug\net6.0\refint\Reflection.dll
+F:\Aspire\c#\Reflection\obj\Debug\net6.0\Reflection.pdb
+F:\Aspire\c#\Reflection\obj\Debug\net6.0\Reflection.genruntimeconfig.cache
+F:\Aspire\c#\Reflection\obj\Debug\net6.0\ref\Reflection.dll

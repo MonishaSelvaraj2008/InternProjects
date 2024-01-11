@@ -1,0 +1,15 @@
+F:\Aspire Training\Code\MVC\IQuery_c#\bin\Debug\net6.0\IQuery_c#.exe
+F:\Aspire Training\Code\MVC\IQuery_c#\bin\Debug\net6.0\IQuery_c#.deps.json
+F:\Aspire Training\Code\MVC\IQuery_c#\bin\Debug\net6.0\IQuery_c#.runtimeconfig.json
+F:\Aspire Training\Code\MVC\IQuery_c#\bin\Debug\net6.0\IQuery_c#.dll
+F:\Aspire Training\Code\MVC\IQuery_c#\bin\Debug\net6.0\IQuery_c#.pdb
+F:\Aspire Training\Code\MVC\IQuery_c#\obj\Debug\net6.0\IQuery_c#.csproj.AssemblyReference.cache
+F:\Aspire Training\Code\MVC\IQuery_c#\obj\Debug\net6.0\IQuery_c#.GeneratedMSBuildEditorConfig.editorconfig
+F:\Aspire Training\Code\MVC\IQuery_c#\obj\Debug\net6.0\IQuery_c#.AssemblyInfoInputs.cache
+F:\Aspire Training\Code\MVC\IQuery_c#\obj\Debug\net6.0\IQuery_c#.AssemblyInfo.cs
+F:\Aspire Training\Code\MVC\IQuery_c#\obj\Debug\net6.0\IQuery_c#.csproj.CoreCompileInputs.cache
+F:\Aspire Training\Code\MVC\IQuery_c#\obj\Debug\net6.0\IQuery_c#.dll
+F:\Aspire Training\Code\MVC\IQuery_c#\obj\Debug\net6.0\refint\IQuery_c#.dll
+F:\Aspire Training\Code\MVC\IQuery_c#\obj\Debug\net6.0\IQuery_c#.pdb
+F:\Aspire Training\Code\MVC\IQuery_c#\obj\Debug\net6.0\IQuery_c#.genruntimeconfig.cache
+F:\Aspire Training\Code\MVC\IQuery_c#\obj\Debug\net6.0\ref\IQuery_c#.dll

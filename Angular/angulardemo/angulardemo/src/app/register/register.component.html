@@ -1,0 +1,48 @@
+<div>
+<form #registerForm="ngForm" (submit)="submitForm()">
+  {{registerForm.value | json}}
+  <div class="form-group">
+    <label for="">UserName : </label>
+    <input type="text" name="userName" #uname=ngModel [(ngModel)]="userName" required minlength="3">
+  </div>
+
+  <div *ngIf="uname.errors && (uname.dirty || uname.touched)">
+
+    <div [hidden]="!uname.errors['required']"]>Please enter username</div>
+
+    <div [hidden]="!uname.errors['minlength']">Please enter user name of atleast 3 cahracters</div>
+
+  </div>
+  touched:{{uname.touched}} <br/>
+  untouched:{{uname.untouched}} <br/>
+  valid:{{uname.valid}} <br/>
+  invalid:{{uname.invalid}} <br />
+  pristine:{{uname.pristine}} <br />
+  dirty:{{uname.dirty}} <br />
+
+  <div class="form-group">
+    <label for="">Mobile number : </label>
+    <input type="text" name="mobileNo" #mobno=ngModel [(ngModel)]="mobileNo" required length="10">
+  </div>
+  touched:{{uname.touched}} <br />
+  untouched:{{uname.untouched}} <br />
+  valid:{{uname.valid}} <br />
+  invalid:{{uname.invalid}} <br />
+  pristine:{{uname.pristine}} <br />
+  dirty:{{uname.dirty}} <br />
+
+
+  <div class="form-group">
+    <label for="">Email Id : </label>
+    <input type="email" name="emailId" #eid=ngModel [(ngModel)]="emailId" required>
+  </div>
+  touched:{{uname.touched}} <br />
+  untouched:{{uname.untouched}} <br />
+  valid:{{uname.valid}} <br />
+  invalid:{{uname.invalid}} <br />
+  pristine:{{uname.pristine}} <br />
+  dirty:{{uname.dirty}} <br />
+
+  <button [disabled]="!registerForm.form.valid">Submit</button>
+</form>
+</div>

@@ -1,0 +1,96 @@
+<div class="container mt-3">
+  <section class="vh-100">
+    <div class="container-fluid h-custom">
+      <div class="row d-flex justify-content-center align-items-center h-100">
+        <div class="col-md-9 col-lg-6 col-xl-5">
+          <img [src]="Image" class="img-fluid" alt="Sample image">
+        </div>
+        <div class="col-md-9 col-lg-6 col-xl-5">
+          <form [formGroup]="RegisterForm" (ngSubmit)="onSubmit()">
+            
+            <!-- Name input -->
+            <div class="form-floating mb-3 mt-3" *ngIf="Userdata">
+              <input type="text" class="form-control" formControlName="name" placeholder="name" 
+                     [ngClass]="{'is-invalid': RegisterForm.get('name')?.invalid && (RegisterForm.get('name')?.dirty || RegisterForm.get('name')?.touched),
+                                 'is-valid': RegisterForm.get('name')?.valid && (RegisterForm.get('name')?.dirty || RegisterForm.get('name')?.touched)}" />
+              <label class="form-control-label">First Name</label>
+              <div *ngIf="RegisterForm.get('name')?.invalid && (RegisterForm.get('name')?.dirty || RegisterForm.get('name')?.touched)">
+                <div *ngIf="RegisterForm.get('name')?.hasError('required')">First Name is required.</div>
+              </div>
+            </div>
+
+            <!-- Last Name input -->
+            <div class="form-floating mb-3 mt-3">
+              <input type="text" class="form-control" formControlName="lastname" placeholder="Last Name" 
+                     [ngClass]="{'is-invalid': RegisterForm.get('lastname')?.invalid && (RegisterForm.get('lastname')?.dirty || RegisterForm.get('lastname')?.touched),
+                                 'is-valid': RegisterForm.get('lastname')?.valid && (RegisterForm.get('lastname')?.dirty || RegisterForm.get('lastname')?.touched)}" />
+              <label class="form-control-label">Last Name</label>
+              <div *ngIf="RegisterForm.get('lastname')?.invalid && (RegisterForm.get('lastname')?.dirty || RegisterForm.get('lastname')?.touched)">
+                <div *ngIf="RegisterForm.get('lastname')?.hasError('required')">Last Name is required.</div>
+              </div>
+            </div>
+
+            <!-- Mobile Number input -->
+            <div class="form-floating mb-3 mt-3">
+              <input type="text" class="form-control" formControlName="mobilenumber" placeholder="Mobile Number" 
+                     [ngClass]="{'is-invalid': RegisterForm.get('mobilenumber')?.invalid && (RegisterForm.get('mobilenumber')?.dirty || RegisterForm.get('mobilenumber')?.touched),
+                                 'is-valid': RegisterForm.get('mobilenumber')?.valid && (RegisterForm.get('mobilenumber')?.dirty || RegisterForm.get('mobilenumber')?.touched)}" />
+              <label class="form-control-label">Mobile Number</label>
+              <div *ngIf="RegisterForm.get('mobilenumber')?.invalid && (RegisterForm.get('mobilenumber')?.dirty || RegisterForm.get('mobilenumber')?.touched)">
+                <div *ngIf="RegisterForm.get('mobilenumber')?.hasError('required')">Mobile Number is required.</div>
+                <div *ngIf="RegisterForm.get('mobilenumber')?.hasError('pattern')">Invalid mobile number format.</div>
+              </div>
+            </div>
+
+            <!-- DOB input -->
+            <div class="form-floating mb-3 mt-3">
+              <input type="date" class="form-control" formControlName="DOB" 
+                     [ngClass]="{'is-invalid': RegisterForm.get('DOB')?.invalid && (RegisterForm.get('DOB')?.dirty || RegisterForm.get('DOB')?.touched),
+                                 'is-valid': RegisterForm.get('DOB')?.valid && (RegisterForm.get('DOB')?.dirty || RegisterForm.get('DOB')?.touched)}" />
+              <label class="form-control-label">Date of Birth</label>
+              <div *ngIf="RegisterForm.get('DOB')?.invalid && (RegisterForm.get('DOB')?.dirty || RegisterForm.get('DOB')?.touched)">
+                <div *ngIf="RegisterForm.get('DOB')?.hasError('required')">Date of Birth is required.</div>
+              </div>
+            </div>
+
+            <!-- Email input -->
+            <div class="form-floating mb-3 mt-3">
+              <input type="email" class="form-control" formControlName="email" placeholder="Email" 
+                     [ngClass]="{'is-invalid': RegisterForm.get('email')?.invalid && (RegisterForm.get('email')?.dirty || RegisterForm.get('email')?.touched),
+                                 'is-valid': RegisterForm.get('email')?.valid && (RegisterForm.get('email')?.dirty || RegisterForm.get('email')?.touched)}" />
+              <label class="form-control-label">Email address</label>
+              <div *ngIf="RegisterForm.get('email')?.invalid && (RegisterForm.get('email')?.dirty || RegisterForm.get('email')?.touched)">
+                <div *ngIf="RegisterForm.get('email')?.hasError('required')">Email is required.</div>
+                <div *ngIf="RegisterForm.get('email')?.hasError('email')">Invalid email format.</div>
+              </div>
+            </div>
+
+            <!-- Password input -->
+            <div class="form-floating mb-3 mt-3">
+              <input type="password" id="form3Example4" class="form-control" formControlName="password" 
+                     [ngClass]="{'is-invalid': RegisterForm.get('password')?.invalid && (RegisterForm.get('password')?.dirty || RegisterForm.get('password')?.touched),
+                                 'is-valid': RegisterForm.get('password')?.valid && (RegisterForm.get('password')?.dirty || RegisterForm.get('password')?.touched)}" />
+              <label class="form-control-label">Password</label>
+              <div *ngIf="RegisterForm.get('password')?.invalid && (RegisterForm.get('password')?.dirty || RegisterForm.get('password')?.touched)">
+                <div *ngIf="RegisterForm.get('password')?.hasError('required')">Password is required.</div>
+                <div *ngIf="RegisterForm.get('password')?.hasError('pattern')">Password must contain at least one uppercase letter, one lowercase letter, and one number.</div>
+              </div>
+            </div>
+
+            <div class="text-center text-lg-start mt-4 pt-2">
+              <button type="submit" class="btn btn-primary btn-lg" 
+                      [disabled]="RegisterForm.invalid" 
+                      style="padding-left: 2.5rem; padding-right: 2.5rem; background-color: #ffb347; border: #ffb347;">
+                Sign Up
+              </button>
+              <p class="small fw-bold mt-2 pt-1 mb-">
+                Go back to
+                <a routerLink="/Login" class="link-danger">Login</a>
+              </p>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>

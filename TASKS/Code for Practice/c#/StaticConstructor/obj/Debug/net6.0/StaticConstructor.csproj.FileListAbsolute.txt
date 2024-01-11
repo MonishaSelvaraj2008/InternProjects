@@ -1,0 +1,15 @@
+F:\Aspire\c#\StaticConstructor\bin\Debug\net6.0\StaticConstructor.exe
+F:\Aspire\c#\StaticConstructor\bin\Debug\net6.0\StaticConstructor.deps.json
+F:\Aspire\c#\StaticConstructor\bin\Debug\net6.0\StaticConstructor.runtimeconfig.json
+F:\Aspire\c#\StaticConstructor\bin\Debug\net6.0\StaticConstructor.dll
+F:\Aspire\c#\StaticConstructor\bin\Debug\net6.0\StaticConstructor.pdb
+F:\Aspire\c#\StaticConstructor\obj\Debug\net6.0\StaticConstructor.csproj.AssemblyReference.cache
+F:\Aspire\c#\StaticConstructor\obj\Debug\net6.0\StaticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+F:\Aspire\c#\StaticConstructor\obj\Debug\net6.0\StaticConstructor.AssemblyInfoInputs.cache
+F:\Aspire\c#\StaticConstructor\obj\Debug\net6.0\StaticConstructor.AssemblyInfo.cs
+F:\Aspire\c#\StaticConstructor\obj\Debug\net6.0\StaticConstructor.csproj.CoreCompileInputs.cache
+F:\Aspire\c#\StaticConstructor\obj\Debug\net6.0\StaticConstructor.dll
+F:\Aspire\c#\StaticConstructor\obj\Debug\net6.0\refint\StaticConstructor.dll
+F:\Aspire\c#\StaticConstructor\obj\Debug\net6.0\StaticConstructor.pdb
+F:\Aspire\c#\StaticConstructor\obj\Debug\net6.0\StaticConstructor.genruntimeconfig.cache
+F:\Aspire\c#\StaticConstructor\obj\Debug\net6.0\ref\StaticConstructor.dll

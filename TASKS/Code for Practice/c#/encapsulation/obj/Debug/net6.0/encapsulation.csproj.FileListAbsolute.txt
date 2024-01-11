@@ -1,0 +1,15 @@
+f:\Aspire\c#\encapsulation\obj\Debug\net6.0\encapsulation.csproj.AssemblyReference.cache
+f:\Aspire\c#\encapsulation\obj\Debug\net6.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+f:\Aspire\c#\encapsulation\obj\Debug\net6.0\encapsulation.AssemblyInfoInputs.cache
+f:\Aspire\c#\encapsulation\obj\Debug\net6.0\encapsulation.AssemblyInfo.cs
+f:\Aspire\c#\encapsulation\obj\Debug\net6.0\encapsulation.csproj.CoreCompileInputs.cache
+F:\Aspire\c#\encapsulation\bin\Debug\net6.0\encapsulation.exe
+F:\Aspire\c#\encapsulation\bin\Debug\net6.0\encapsulation.deps.json
+F:\Aspire\c#\encapsulation\bin\Debug\net6.0\encapsulation.runtimeconfig.json
+F:\Aspire\c#\encapsulation\bin\Debug\net6.0\encapsulation.dll
+F:\Aspire\c#\encapsulation\bin\Debug\net6.0\encapsulation.pdb
+F:\Aspire\c#\encapsulation\obj\Debug\net6.0\encapsulation.dll
+F:\Aspire\c#\encapsulation\obj\Debug\net6.0\refint\encapsulation.dll
+F:\Aspire\c#\encapsulation\obj\Debug\net6.0\encapsulation.pdb
+F:\Aspire\c#\encapsulation\obj\Debug\net6.0\encapsulation.genruntimeconfig.cache
+F:\Aspire\c#\encapsulation\obj\Debug\net6.0\ref\encapsulation.dll

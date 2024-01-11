@@ -1,0 +1,15 @@
+F:\Aspire\c#\CollectionsDictionary\obj\Debug\net6.0\CollectionsDictionary.csproj.AssemblyReference.cache
+F:\Aspire\c#\CollectionsDictionary\obj\Debug\net6.0\CollectionsDictionary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Aspire\c#\CollectionsDictionary\obj\Debug\net6.0\CollectionsDictionary.AssemblyInfoInputs.cache
+F:\Aspire\c#\CollectionsDictionary\obj\Debug\net6.0\CollectionsDictionary.AssemblyInfo.cs
+F:\Aspire\c#\CollectionsDictionary\obj\Debug\net6.0\CollectionsDictionary.csproj.CoreCompileInputs.cache
+F:\Aspire\c#\CollectionsDictionary\bin\Debug\net6.0\CollectionsDictionary.exe
+F:\Aspire\c#\CollectionsDictionary\bin\Debug\net6.0\CollectionsDictionary.deps.json
+F:\Aspire\c#\CollectionsDictionary\bin\Debug\net6.0\CollectionsDictionary.runtimeconfig.json
+F:\Aspire\c#\CollectionsDictionary\bin\Debug\net6.0\CollectionsDictionary.dll
+F:\Aspire\c#\CollectionsDictionary\bin\Debug\net6.0\CollectionsDictionary.pdb
+F:\Aspire\c#\CollectionsDictionary\obj\Debug\net6.0\CollectionsDictionary.dll
+F:\Aspire\c#\CollectionsDictionary\obj\Debug\net6.0\refint\CollectionsDictionary.dll
+F:\Aspire\c#\CollectionsDictionary\obj\Debug\net6.0\CollectionsDictionary.pdb
+F:\Aspire\c#\CollectionsDictionary\obj\Debug\net6.0\CollectionsDictionary.genruntimeconfig.cache
+F:\Aspire\c#\CollectionsDictionary\obj\Debug\net6.0\ref\CollectionsDictionary.dll

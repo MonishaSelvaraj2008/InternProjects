@@ -1,0 +1,10 @@
+<!--two way binding-->
+<p>Enter something to search:<input type="text" name="search" [(ngModel)]="searchData"/>
+
+You have searched for :: {{searchData}}
+
+<div>
+    <h3>Message from parent is</h3>
+    {{pmessage}}<button (click)="sendMessage()">send response</button>
+</div>
+

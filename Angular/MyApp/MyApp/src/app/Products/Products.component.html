@@ -1,0 +1,20 @@
+<h2><div class="title">Products List</div></h2>
+<div class="content" role="main">
+  <div class="row">
+  </div>
+  <div class="card">
+    <div class="card-boby">
+      <div *ngFor="let item of product">
+        <img class="img-responsive img-thumbnail imgclass" src="{{item.thumbnail}}">
+        <span><b><a routerLink="/Products/{{item.title}}">{{item.title}}</a></b>-{{item.price|currency:'INR'}}</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div>
+  <router-outlet></router-outlet>
+</div>
+
+
+

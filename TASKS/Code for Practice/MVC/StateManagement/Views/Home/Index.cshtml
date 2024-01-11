@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    @ViewData["Message"]
+    <ol>
+        @foreach (var emp in ViewData["Employee"] as IList<string>)
+        {
+            <li>
+                @emp
+            </li>
+            
+        }
+    </ol>
+    <h2>@ViewBag.name</h2>
+
+    <label>Total Employees : </label>@ViewBag.TotalEmployee
+
+    
+</div>

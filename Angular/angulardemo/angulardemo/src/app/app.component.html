@@ -1,0 +1,45 @@
+<!-- string interpolation
+one way data binding
+-->
+<h1>{{title}}</h1>
+<!--- <h1>
+ <img [src]='card'/>
+</h1> --->
+
+<h3 [innerHTML]='choice'></h3>
+
+<h2>
+  <button [disabled]="choice" (click)="show()">Click Here</button>
+</h2>
+
+<h3>{{wm}}</h3>
+<button (click)="changeWm()">ChangeWm</button>
+<app-binding pmessage="parentVariable" (cmessage)=
+"childMessageVariable=$event"></app-binding>
+
+<div>
+  <h3>Message from child is:{{childMessageVariable}}</h3>
+</div>
+{{3+4}}
+
+<app-employee></app-employee>
+
+
+<app-tag-color></app-tag-color>
+
+<app-button></app-button>
+
+<app-label></app-label>
+
+<app-mobile-display></app-mobile-display>
+
+<app-product-display></app-product-display>
+
+<app-payment-component></app-payment-component>
+
+<!--{{products|json}}--->
+
+<app-register></app-register>
+<app-login></app-login>
+
+<!--<app-Book [attrBook]="books"></app-Book>-->

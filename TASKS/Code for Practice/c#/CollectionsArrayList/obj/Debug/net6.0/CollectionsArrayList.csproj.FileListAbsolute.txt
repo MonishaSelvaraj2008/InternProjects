@@ -1,0 +1,15 @@
+F:\Aspire\c#\CollectionsArrayList\obj\Debug\net6.0\CollectionsArrayList.csproj.AssemblyReference.cache
+F:\Aspire\c#\CollectionsArrayList\obj\Debug\net6.0\CollectionsArrayList.GeneratedMSBuildEditorConfig.editorconfig
+F:\Aspire\c#\CollectionsArrayList\obj\Debug\net6.0\CollectionsArrayList.AssemblyInfoInputs.cache
+F:\Aspire\c#\CollectionsArrayList\obj\Debug\net6.0\CollectionsArrayList.AssemblyInfo.cs
+F:\Aspire\c#\CollectionsArrayList\obj\Debug\net6.0\CollectionsArrayList.csproj.CoreCompileInputs.cache
+F:\Aspire\c#\CollectionsArrayList\bin\Debug\net6.0\CollectionsArrayList.exe
+F:\Aspire\c#\CollectionsArrayList\bin\Debug\net6.0\CollectionsArrayList.deps.json
+F:\Aspire\c#\CollectionsArrayList\bin\Debug\net6.0\CollectionsArrayList.runtimeconfig.json
+F:\Aspire\c#\CollectionsArrayList\bin\Debug\net6.0\CollectionsArrayList.dll
+F:\Aspire\c#\CollectionsArrayList\bin\Debug\net6.0\CollectionsArrayList.pdb
+F:\Aspire\c#\CollectionsArrayList\obj\Debug\net6.0\CollectionsArrayList.dll
+F:\Aspire\c#\CollectionsArrayList\obj\Debug\net6.0\refint\CollectionsArrayList.dll
+F:\Aspire\c#\CollectionsArrayList\obj\Debug\net6.0\CollectionsArrayList.pdb
+F:\Aspire\c#\CollectionsArrayList\obj\Debug\net6.0\CollectionsArrayList.genruntimeconfig.cache
+F:\Aspire\c#\CollectionsArrayList\obj\Debug\net6.0\ref\CollectionsArrayList.dll

@@ -1,0 +1,15 @@
+f:\Aspire\c#\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.csproj.AssemblyReference.cache
+f:\Aspire\c#\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.GeneratedMSBuildEditorConfig.editorconfig
+f:\Aspire\c#\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.AssemblyInfoInputs.cache
+f:\Aspire\c#\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.AssemblyInfo.cs
+f:\Aspire\c#\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.csproj.CoreCompileInputs.cache
+f:\Aspire\c#\MultiLevelInheritance\bin\Debug\net6.0\MultiLevelInheritance.exe
+f:\Aspire\c#\MultiLevelInheritance\bin\Debug\net6.0\MultiLevelInheritance.deps.json
+f:\Aspire\c#\MultiLevelInheritance\bin\Debug\net6.0\MultiLevelInheritance.runtimeconfig.json
+f:\Aspire\c#\MultiLevelInheritance\bin\Debug\net6.0\MultiLevelInheritance.dll
+f:\Aspire\c#\MultiLevelInheritance\bin\Debug\net6.0\MultiLevelInheritance.pdb
+f:\Aspire\c#\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.dll
+f:\Aspire\c#\MultiLevelInheritance\obj\Debug\net6.0\refint\MultiLevelInheritance.dll
+f:\Aspire\c#\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.pdb
+f:\Aspire\c#\MultiLevelInheritance\obj\Debug\net6.0\MultiLevelInheritance.genruntimeconfig.cache
+f:\Aspire\c#\MultiLevelInheritance\obj\Debug\net6.0\ref\MultiLevelInheritance.dll

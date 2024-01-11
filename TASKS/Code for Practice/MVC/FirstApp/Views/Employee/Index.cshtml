@@ -1,0 +1,26 @@
+@model IEnumerable<Employee>
+@{
+    ViewData["Title"]="Create";
+}
+
+<h2>List of Employees</h2>
+<table style="width:50%" border=2]>
+  <thead><tr>
+    <th>Name</th>
+    <th>Age</th>
+    <th>Salary</th>
+    <th>Department</th></tr>
+  </thead>
+
+  <tbody>
+    @foreach (Employee employee in Model)
+    {
+      <tr>
+        <td> @employee.Name</td>
+        <td> @employee.Age<td>
+        <td> @employee.Salary</td>
+        <td> @employee.Department</td>
+      </tr>
+    }
+  </tbody>
+</table>

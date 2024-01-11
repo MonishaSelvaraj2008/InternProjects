@@ -1,0 +1,15 @@
+f:\Aspire\c#\Rough\bin\Debug\net6.0\Rough.exe
+f:\Aspire\c#\Rough\bin\Debug\net6.0\Rough.deps.json
+f:\Aspire\c#\Rough\bin\Debug\net6.0\Rough.runtimeconfig.json
+f:\Aspire\c#\Rough\bin\Debug\net6.0\Rough.dll
+f:\Aspire\c#\Rough\bin\Debug\net6.0\Rough.pdb
+f:\Aspire\c#\Rough\obj\Debug\net6.0\Rough.csproj.AssemblyReference.cache
+f:\Aspire\c#\Rough\obj\Debug\net6.0\Rough.GeneratedMSBuildEditorConfig.editorconfig
+f:\Aspire\c#\Rough\obj\Debug\net6.0\Rough.AssemblyInfoInputs.cache
+f:\Aspire\c#\Rough\obj\Debug\net6.0\Rough.AssemblyInfo.cs
+f:\Aspire\c#\Rough\obj\Debug\net6.0\Rough.csproj.CoreCompileInputs.cache
+f:\Aspire\c#\Rough\obj\Debug\net6.0\Rough.dll
+f:\Aspire\c#\Rough\obj\Debug\net6.0\refint\Rough.dll
+f:\Aspire\c#\Rough\obj\Debug\net6.0\Rough.pdb
+f:\Aspire\c#\Rough\obj\Debug\net6.0\Rough.genruntimeconfig.cache
+f:\Aspire\c#\Rough\obj\Debug\net6.0\ref\Rough.dll

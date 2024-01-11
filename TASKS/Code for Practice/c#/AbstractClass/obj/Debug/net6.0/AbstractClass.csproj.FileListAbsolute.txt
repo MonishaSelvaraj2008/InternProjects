@@ -1,0 +1,15 @@
+f:\Aspire\c#\AbstractClass\obj\Debug\net6.0\AbstractClass.csproj.AssemblyReference.cache
+f:\Aspire\c#\AbstractClass\obj\Debug\net6.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+f:\Aspire\c#\AbstractClass\obj\Debug\net6.0\AbstractClass.AssemblyInfoInputs.cache
+f:\Aspire\c#\AbstractClass\obj\Debug\net6.0\AbstractClass.AssemblyInfo.cs
+f:\Aspire\c#\AbstractClass\obj\Debug\net6.0\AbstractClass.csproj.CoreCompileInputs.cache
+f:\Aspire\c#\AbstractClass\bin\Debug\net6.0\AbstractClass.exe
+f:\Aspire\c#\AbstractClass\bin\Debug\net6.0\AbstractClass.deps.json
+f:\Aspire\c#\AbstractClass\bin\Debug\net6.0\AbstractClass.runtimeconfig.json
+f:\Aspire\c#\AbstractClass\bin\Debug\net6.0\AbstractClass.dll
+f:\Aspire\c#\AbstractClass\bin\Debug\net6.0\AbstractClass.pdb
+f:\Aspire\c#\AbstractClass\obj\Debug\net6.0\AbstractClass.dll
+f:\Aspire\c#\AbstractClass\obj\Debug\net6.0\refint\AbstractClass.dll
+f:\Aspire\c#\AbstractClass\obj\Debug\net6.0\AbstractClass.pdb
+f:\Aspire\c#\AbstractClass\obj\Debug\net6.0\AbstractClass.genruntimeconfig.cache
+f:\Aspire\c#\AbstractClass\obj\Debug\net6.0\ref\AbstractClass.dll

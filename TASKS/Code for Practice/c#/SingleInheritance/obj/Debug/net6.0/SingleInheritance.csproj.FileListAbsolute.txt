@@ -1,0 +1,15 @@
+f:\Aspire\c#\SingleInheritance\obj\Debug\net6.0\SingleInheritance.csproj.AssemblyReference.cache
+f:\Aspire\c#\SingleInheritance\obj\Debug\net6.0\SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+f:\Aspire\c#\SingleInheritance\obj\Debug\net6.0\SingleInheritance.AssemblyInfoInputs.cache
+f:\Aspire\c#\SingleInheritance\obj\Debug\net6.0\SingleInheritance.AssemblyInfo.cs
+f:\Aspire\c#\SingleInheritance\obj\Debug\net6.0\SingleInheritance.csproj.CoreCompileInputs.cache
+f:\Aspire\c#\SingleInheritance\bin\Debug\net6.0\SingleInheritance.exe
+f:\Aspire\c#\SingleInheritance\bin\Debug\net6.0\SingleInheritance.deps.json
+f:\Aspire\c#\SingleInheritance\bin\Debug\net6.0\SingleInheritance.runtimeconfig.json
+f:\Aspire\c#\SingleInheritance\bin\Debug\net6.0\SingleInheritance.dll
+f:\Aspire\c#\SingleInheritance\bin\Debug\net6.0\SingleInheritance.pdb
+f:\Aspire\c#\SingleInheritance\obj\Debug\net6.0\SingleInheritance.dll
+f:\Aspire\c#\SingleInheritance\obj\Debug\net6.0\refint\SingleInheritance.dll
+f:\Aspire\c#\SingleInheritance\obj\Debug\net6.0\SingleInheritance.pdb
+f:\Aspire\c#\SingleInheritance\obj\Debug\net6.0\SingleInheritance.genruntimeconfig.cache
+f:\Aspire\c#\SingleInheritance\obj\Debug\net6.0\ref\SingleInheritance.dll

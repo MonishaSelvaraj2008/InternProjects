@@ -1,0 +1,15 @@
+f:\Aspire\c#\AccessSpecifiers_protected\obj\Debug\net6.0\AccessSpecifiers_protected.csproj.AssemblyReference.cache
+f:\Aspire\c#\AccessSpecifiers_protected\obj\Debug\net6.0\AccessSpecifiers_protected.GeneratedMSBuildEditorConfig.editorconfig
+f:\Aspire\c#\AccessSpecifiers_protected\obj\Debug\net6.0\AccessSpecifiers_protected.AssemblyInfoInputs.cache
+f:\Aspire\c#\AccessSpecifiers_protected\obj\Debug\net6.0\AccessSpecifiers_protected.AssemblyInfo.cs
+f:\Aspire\c#\AccessSpecifiers_protected\obj\Debug\net6.0\AccessSpecifiers_protected.csproj.CoreCompileInputs.cache
+f:\Aspire\c#\AccessSpecifiers_protected\bin\Debug\net6.0\AccessSpecifiers_protected.exe
+f:\Aspire\c#\AccessSpecifiers_protected\bin\Debug\net6.0\AccessSpecifiers_protected.deps.json
+f:\Aspire\c#\AccessSpecifiers_protected\bin\Debug\net6.0\AccessSpecifiers_protected.runtimeconfig.json
+f:\Aspire\c#\AccessSpecifiers_protected\bin\Debug\net6.0\AccessSpecifiers_protected.dll
+f:\Aspire\c#\AccessSpecifiers_protected\bin\Debug\net6.0\AccessSpecifiers_protected.pdb
+f:\Aspire\c#\AccessSpecifiers_protected\obj\Debug\net6.0\AccessSpecifiers_protected.dll
+f:\Aspire\c#\AccessSpecifiers_protected\obj\Debug\net6.0\refint\AccessSpecifiers_protected.dll
+f:\Aspire\c#\AccessSpecifiers_protected\obj\Debug\net6.0\AccessSpecifiers_protected.pdb
+f:\Aspire\c#\AccessSpecifiers_protected\obj\Debug\net6.0\AccessSpecifiers_protected.genruntimeconfig.cache
+f:\Aspire\c#\AccessSpecifiers_protected\obj\Debug\net6.0\ref\AccessSpecifiers_protected.dll

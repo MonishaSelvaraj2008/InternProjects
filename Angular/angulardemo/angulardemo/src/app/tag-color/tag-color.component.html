@@ -1,0 +1,26 @@
+
+<div>
+    <h4>Kindly select the role to see the tag color :</h4>
+    <select [(ngModel)]="role">
+    <option value="black">Student</option>
+    <option value="purple">Professor</option>
+    <option value="blue">Visitor</option>
+    <option value="green">Vendor</option>
+    <option value="Please select the role">Kindly Select</option>
+
+    </select>
+</div>
+
+<ul [ngStyle]="{'color':role}" [ngSwitch]="role">
+    <li *ngSwitchCase = "'black'">For Student - {{role}} color tag</li>
+    <li *ngSwitchCase = "'purple'">For Professor - {{role}} color tag</li>
+    <li *ngSwitchCase = "'blue'">For Visitor - {{role}} color tag</li>
+    <li *ngSwitchCase = "'green'">For Vendor - {{role}} color tag</li>
+    <li *ngSwitchCase = "'Please select the role'">For Others - {{role}} color tag</li>
+</ul>
+
+<h1 [ngClass]="{c1:status}">Welcome to Aspire Family</h1>
+
+<button (click)="toggleCase()">Change</button>
+
+<h1 appappHighlighter>Welcome bruh!!!</h1>

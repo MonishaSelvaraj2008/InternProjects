@@ -1,0 +1,15 @@
+F:\Aspire Training\Code\MVC\filter\obj\Debug\net6.0\filter.csproj.AssemblyReference.cache
+F:\Aspire Training\Code\MVC\filter\obj\Debug\net6.0\filter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Aspire Training\Code\MVC\filter\obj\Debug\net6.0\filter.AssemblyInfoInputs.cache
+F:\Aspire Training\Code\MVC\filter\obj\Debug\net6.0\filter.AssemblyInfo.cs
+F:\Aspire Training\Code\MVC\filter\obj\Debug\net6.0\filter.csproj.CoreCompileInputs.cache
+F:\Aspire Training\Code\MVC\filter\bin\Debug\net6.0\filter.exe
+F:\Aspire Training\Code\MVC\filter\bin\Debug\net6.0\filter.deps.json
+F:\Aspire Training\Code\MVC\filter\bin\Debug\net6.0\filter.runtimeconfig.json
+F:\Aspire Training\Code\MVC\filter\bin\Debug\net6.0\filter.dll
+F:\Aspire Training\Code\MVC\filter\bin\Debug\net6.0\filter.pdb
+F:\Aspire Training\Code\MVC\filter\obj\Debug\net6.0\filter.dll
+F:\Aspire Training\Code\MVC\filter\obj\Debug\net6.0\refint\filter.dll
+F:\Aspire Training\Code\MVC\filter\obj\Debug\net6.0\filter.pdb
+F:\Aspire Training\Code\MVC\filter\obj\Debug\net6.0\filter.genruntimeconfig.cache
+F:\Aspire Training\Code\MVC\filter\obj\Debug\net6.0\ref\filter.dll

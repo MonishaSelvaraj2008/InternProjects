@@ -1,0 +1,99 @@
+<!-- checkout.component.html -->
+<h3>
+  Happy Checkout!!!
+</h3>
+
+<h2>Only COD available!</h2>
+
+
+<div class="container mt-3">
+  <section class="vh-100">
+    <div class="container-fluid h-custom">
+      <div class="row d-flex justify-content-center align-items-center h-100">
+        <div class="col-md-9 col-lg-6 col-xl-5">
+          <form [formGroup]="checkoutForm" (ngSubmit)="submitCheckoutForm()">
+            
+            <!-- First Name input -->
+            <div class="form-floating mb-3 mt-3"
+                 [ngClass]="{
+                   'has-validation': checkoutForm.get('firstName')?.dirty || checkoutForm.get('firstName')?.touched,
+                   'is-invalid': checkoutForm.get('firstName')?.invalid && (checkoutForm.get('firstName')?.dirty || checkoutForm.get('firstName')?.touched),
+                   'is-valid': checkoutForm.get('firstName')?.valid && (checkoutForm.get('firstName')?.dirty || checkoutForm.get('firstName')?.touched)
+                 }">
+              <input type="text" class="form-control" formControlName="firstName" placeholder="First Name" />
+              <label class="form-control-label">First Name</label>
+              <div *ngIf="checkoutForm.get('firstName')?.invalid && (checkoutForm.get('firstName')?.dirty || checkoutForm.get('firstName')?.touched)">
+                <div *ngIf="checkoutForm.get('firstName')?.hasError('required')">First Name is required.</div>
+              </div>
+            </div>
+
+            <!-- Last Name input -->
+            <div class="form-floating mb-3 mt-3"
+                 [ngClass]="{
+                   'has-validation': checkoutForm.get('lastName')?.dirty || checkoutForm.get('lastName')?.touched,
+                   'is-invalid': checkoutForm.get('lastName')?.invalid && (checkoutForm.get('lastName')?.dirty || checkoutForm.get('lastName')?.touched),
+                   'is-valid': checkoutForm.get('lastName')?.valid && (checkoutForm.get('lastName')?.dirty || checkoutForm.get('lastName')?.touched)
+                 }">
+              <input type="text" class="form-control" formControlName="lastName" placeholder="Last Name" />
+              <label class="form-control-label">Last Name</label>
+              <div *ngIf="checkoutForm.get('lastName')?.invalid && (checkoutForm.get('lastName')?.dirty || checkoutForm.get('lastName')?.touched)">
+                <div *ngIf="checkoutForm.get('lastName')?.hasError('required')">Last Name is required.</div>
+              </div>
+            </div>
+
+            <!-- Email input -->
+            <div class="form-floating mb-3 mt-3"
+                 [ngClass]="{
+                   'has-validation': checkoutForm.get('email')?.dirty || checkoutForm.get('email')?.touched,
+                   'is-invalid': checkoutForm.get('email')?.invalid && (checkoutForm.get('email')?.dirty || checkoutForm.get('email')?.touched),
+                   'is-valid': checkoutForm.get('email')?.valid && (checkoutForm.get('email')?.dirty || checkoutForm.get('email')?.touched)
+                 }">
+              <input type="email" class="form-control" formControlName="email" placeholder="Email" />
+              <label class="form-control-label">Email address</label>
+              <div *ngIf="checkoutForm.get('email')?.invalid && (checkoutForm.get('email')?.dirty || checkoutForm.get('email')?.touched)">
+                <div *ngIf="checkoutForm.get('email')?.hasError('required')">Email is required.</div>
+                <div *ngIf="checkoutForm.get('email')?.hasError('email')">Invalid email format.</div>
+              </div>
+            </div>
+
+            <!-- Address input -->
+            <div class="form-floating mb-3 mt-3"
+                 [ngClass]="{
+                   'has-validation': checkoutForm.get('address')?.dirty || checkoutForm.get('address')?.touched,
+                   'is-invalid': checkoutForm.get('address')?.invalid && (checkoutForm.get('address')?.dirty || checkoutForm.get('address')?.touched),
+                   'is-valid': checkoutForm.get('address')?.valid && (checkoutForm.get('address')?.dirty || checkoutForm.get('address')?.touched)
+                 }">
+              <textarea class="form-control" formControlName="address" placeholder="Address"></textarea>
+              <label class="form-control-label">Address</label>
+              <div *ngIf="checkoutForm.get('address')?.invalid && (checkoutForm.get('address')?.dirty || checkoutForm.get('address')?.touched)">
+                <div *ngIf="checkoutForm.get('address')?.hasError('required')">Address is required.</div>
+              </div>
+            </div>
+
+            <!-- PhoneNumber input -->
+            <div class="form-floating mb-3 mt-3"
+                 [ngClass]="{
+                   'has-validation': checkoutForm.get('phoneNumber')?.dirty || checkoutForm.get('phoneNumber')?.touched,
+                   'is-invalid': checkoutForm.get('phoneNumber')?.invalid && (checkoutForm.get('phoneNumber')?.dirty || checkoutForm.get('phoneNumber')?.touched),
+                   'is-valid': checkoutForm.get('phoneNumber')?.valid && (checkoutForm.get('phoneNumber')?.dirty || checkoutForm.get('phoneNumber')?.touched)
+                 }">
+              <input type="tel" class="form-control" formControlName="phoneNumber" placeholder="Phone Number" />
+              <label class="form-control-label">Phone Number</label>
+              <div *ngIf="checkoutForm.get('phoneNumber')?.invalid && (checkoutForm.get('phoneNumber')?.dirty || checkoutForm.get('phoneNumber')?.touched)">
+                <div *ngIf="checkoutForm.get('phoneNumber')?.hasError('required')">Phone Number is required.</div>
+              </div>
+            </div>
+
+            <!-- Submit button -->
+           <div class="text-center mt-4">
+            <button type="submit" class="btn btn-primary btn-lg border: #ffb347; border: #ffb347;" [disabled]="!checkoutForm.valid">Submit</button>
+            <a routerLink="/home" class="btn btn-outline-primary m-2">Go to Home</a>
+          </div>
+
+            
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
